@@ -1,0 +1,38 @@
+#QUEST/MISSÃO
+NEXT STEP=PRÓXIMO PASSO
+INVITE YOUR FRIENDS=CONVIDA OS TEUS AMIGOS
+LEAVE THE HOUSE=SAIA DA CASA
+PICK UP THE CAMERA=PEGUE NA CÂMARA
+ENTER THE DIVE BELL AND SUBMERGE=ENTRE NO SINO DE MERGULHO E SUBMERSE
+FILM SOMETHING SCARY=FILME ALGUMA COISA ASSUSTADORA
+RETURN TO THE SURFACE=VOLTE À SUPERFÍCIE
+RETURN TO THE DIVE BELL AND ASCEND=VOLTAR AO SINO DE MERGULHO E SUBA
+CELEBRATE YOUR NEWFOUND FAME!=CELEBRE A SUA NOVA FAMA!
+Throw the camera into the video extraction machine=Atire a sua câmara para a máquina de extração de vídeos
+GO TO BED=VÁ PARA A CAMA
+BUY EQUIPMENT=COMPRE EQUIPAMENTO
+
+Ad Revenue=Receita de Publicidade
+Spöök Tube views=Visualizações do SpöökTube
+r:"^Hospital Bill For (\w+)$"=Fatura do Hospital Para $1
+
+INVENTORY=INVENTÁRIO
+Inventory=Inventário
+HP=HP
+STAMINA=ENERGIA
+
+r:"^(\d+)/(\d+)K Views$"=$1/$2K Visualizações
+r:"^(\d+)K/(\d+)K Views$"=$1K/$2K Visualizações
+r:"^(\d+(\.\d+)?)/(\d+(\.\d+)?)K Views$"=$1/$3K Visualizações
+r:"^(\d+(\.\d+)?)K/(\d+(\.\d+)?)K Views$"=$1K/$3K Visualizações
+r:"^(\d+) DAYS LEFT$"=$1 DIAS EM FALTA
+r:"^(\d+) Days Left!$"=$1 Dias em Falta
+r:"^DAY (\d+)$"=DIA $1
+r:"^Day (\d+)$"=Dia $1
+LAST DAY=ÚLTIMO DIA
+This Is The Last Day!=Hoje é o Último Dia!
+
+You can not invite friends after the game has started.=Você não pode convidar amigos após o início do jogo.
+Are you sure you want to start?=Tens aceteza que queres começar?
+Start Game=Começar Jogo
+Cancel=Cancelar

@@ -1,0 +1,78 @@
+#SHOP / LOJA
+ORDER HERE=ENCOMENDA AQUI!
+Shop Closed!=LOJA FECHADA!
+r:"^([0-9]+) ITEMS$"=$1 ITEMS
+ORDER=COMPRAR
+Order=Comprar
+Clear=Limpar
+CLEAR=LIMPAR
+Switch To Light Category=<b>Mudar para a Categoría das Luzes</b>
+Lights=<b>Luzes</b>
+LIGHTS=<b>LUZES</b>
+Switch To Medical Category=<b>Mudar para Categoría Médico</b>
+Medical=<b>Médico</b>
+MEDICAL=<b>MÉdico</b>
+Switch To Gadgets Category=<b>Mudar para a Categoria dos Acessórios</b>
+Gadgets=<b>Acessórios</b>
+GADGETS=<b>ACESSÓRIOS</b>
+Switch To Emote Category=<b>Mudar para a Categoria das Danças</b>
+Emote=<b>Dança</b>
+EMOTE=<b>DANÇA</b>
+Switch To Emote2 Category=<b>Mudar para Dança2</b>
+Emote2=<b>Dança2</b>
+EMOTE2=<b>DANÇA2</b>
+Switch To Misc Category=<b>Mudar para a Categoria de Outros</b>
+Misc=<b>Outros</b>
+MISC=<b>Outros</b>
+
+#DIVING BELL
+ACTIVE=ATIVADO
+Recharging...=A Recarregar ...
+Open=Abrir
+Close=Fechar
+Close the door!=Fecha a Porta!
+Not all suits are inside=Nem todos of fatos estão dentro
+Ready to submerge!=Pronto para submergir!
+READY TO SUBMERGE=PRONTO PARA SUBMERGIR!
+Ready to return=Pronto para retomar
+SUBMERGE=SUBMERGIR
+Connected Suits=Fatos Conectados
+CONNECTED SUITS=FATOS CONECTADOS
+r:"^DISTANCE: (\d+)m$"=DISTÂNCIA: $1 m
+r:"^OXYGEN: (\d+)%$"=$1% OXIGÉNIO
+
+#Disk Extracter/Extrator de Discos
+EXTRACTING VIDEO..=EXTRAINDO VÍDEO...
+PICK UP THE DISC=PEGUE O DISCO
+TAKE THE DISC=PEGUE O DISCO
+FAILED TO EXTRACT=FALHA AO EXTRAIR
+
+#TV
+UPLOAD VIDEO=CARREGAR VÍDEO
+Upload the video to Spöök Tube=Carregar Vídeo para o Spöök Tube
+INSERT DISC=INSERIR DISCO
+Comments=Commentários
+r:"^Views: (\d+)$"=Vizualizações: $1
+r:"^Views: (\d+(\.\d+)?)K$"=Vizualizações: $1K
+REPLAY=REPRODUZIR
+SAVE VIDEO TO DESKTOP=SALVAR Vídeo PARA O AMBIENTE DE TRABALHO
+Save Video to Desktop=Salvar Vídeo para o ambiente de Trabalhaho
+r:"^Saved as  content_warning_(\w+)\.webm$"=Salvo como content_warning_$1.webm
+Video saved to desktop!=Vídeo Salvo no Ambiente de Trabalho!
+CLOSE=FECHAR
+Close Video=Fechar Video
+
+#BED
+Sleep=Dormir
+Not Sleepy=Não estou com sono
+
+#FACE CUSTOMIZE/ Customização de Faxe
+TYPE A FACE=ESCREVA UMA FACE
+APPLY=APLICAR
+
+#MISC/OUTROS
+OFFLINE=OFFLINE
+Offline=Offline
+Invite Friends=Convidar Amigos
+INVENTORY=INVENTÁRIO
+Inventory=Inventário

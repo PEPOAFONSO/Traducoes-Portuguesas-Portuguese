@@ -1,0 +1,7 @@
+DEVELOPMENT=DESENVOLVIMENTO
+PUBLISHING=PUBLICADORES
+Jonatan Skoogh - Chef=Jonatan Skoogh - Chefe
+Madde Holmen - Office Manager=Madde Holmen - Gerente
+ADDITIONAL SUPPORT=SUPORTE ADICIONAL
+Future Friends & Popagenda - Additional Marketing and PR support =Futuros Amigos & Popagenda - Suporte Adicional de Marketing e Relações Públicas 
+Special thanks to the amazing community members who helped us test the game and provided us with amazing footage for the trailer.=Obrigado aos incríveis membros da comunidade que ajudaram-nos a testar o jogo e a fornecer incríveis filmagens para o trailer.

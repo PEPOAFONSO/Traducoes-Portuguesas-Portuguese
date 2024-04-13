@@ -1,0 +1,20 @@
+GAMEPLAY=JOGABILIDADE
+
+----- General -----=----- Geral -----
+Host Privately (friends-only)=Hostear Privado (só para amigos)
+Days Per Quota=Dias Por Quota
+
+----- Player -----=----- Jogador -----
+Maxium Health=Vida Máxima
+----- Oxygen -----=----- Oxigénio -----
+Maximum Oxygen (in seconds)= Oxigénio Máximo (em segundos)
+Oxygen Usage Multiplier=Multiplicador de Uso de Oxigénio
+Sprinting Oxygen Usage Multiplier=Multiplicador de Uso de Oxigénio ao Correr
+Oxygen Refill Rate= Tempo de Recarga do Oxigénio
+Use Oxygen in Dive Bell=Usar Oxigénio no Sino de Mergulho
+Refill Oxygen in Dive Bell=Encher o Tanque de Oxigénio no Sino de Mergulho
+Use Oxygen on Surface (useful for debugging)=Usar Oxigénio na Superfície (útil para "debugging")
+Refill Oxygen on Surface (useful for debugging)=Encher o Tanque de Oxigénio na Superfície (útil para "debugging")
+
+ON=LIGADO
+On=Ligado

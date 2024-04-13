@@ -1,0 +1,14 @@
+Render Scale=Escala de Renderização
+FSR 1.0 (Fidelity Super Resolution)=FSR 1.0 (Super Resolução de Fidelidade)
+FSR Sharpness Amount=Quantidade da Nitidez do FSR
+Texture Resolution=Resolução da Textura
+Very High=Muito Alto
+High=Alto
+Medium=Médio
+Anti Aliasing=Anti Aliasing
+Post processing (off \= Brightness won't work)=Pós processamento (Desligado \= O brilho não irá funcionar)
+FOV (Field Of View)=FOV (Campo de Visão)
+Select Folder=Selecione Pasta
+OFF=DESLIGADO
+Off=Desligado
+Lowest=Mais Baixo

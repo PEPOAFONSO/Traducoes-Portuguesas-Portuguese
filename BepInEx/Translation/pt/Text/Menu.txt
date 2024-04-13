@@ -1,0 +1,83 @@
+# Announce/Anúncio
+HIGH SERVER LOADS! PLEASE EXPECT NETWORK ISSUES!  x_x\nWE ARE TRYING TO FIX IT!    \\(T-T)/=<b>SERVIDORES SOBRECARREGADO! VOCÊ TERÁ PROBLEMAS DE REDE! x_x \nESTAMOS TENTANDO RESOLVER ESTE PROBLEMA!</b>
+MEDIUM SERVER LOAD!=A CARGA DO SERVIDOR ESTÁ ATUALMENTE MÉDIA!
+
+# MainMenu/Menu Principal
+PLAY WITH FRIENDS=<b>AMIGOS</b>
+JOIN RANDOM=<b>ALEATÓRIOS</b>
+CREDITS=<b>CRÉDITOS</b>
+OPTIONS=<b>OPÇÕES</b>
+QUIT=<b>SAIR</b>
+
+#PAUSE MENU/MENU TEMPORÁRIO
+RESUME=RETOMAR
+INVITE FRIENDS=CONVIDAR AMIGOS
+
+Connecting=Conectando
+Disconnected=Desconectado
+BACK= <size\=25> VOLTAR </size>
+
+# Sala/S
+HOST PRIVATE GAME=CRIAR SALA PRIVADA
+SELECT A SAVE SLOT=SELECIONE UM ESPAÇO DE SALVAMENTO
+Are you sure you want to delete this save?=Tens a certeza que queres deletar este espaço?
+HOST=CRIAR
+Empty=Vazio
+r:"^SAVE (\d+)$"=SALVAR ARQUIVO $1
+r:"^Money: (\d+)$"=Dinheiro: $ 1
+r:"^Day: (\d+)$"=Dia: $1
+HOSTING GAME...=HOSPEDANDO JOGO...
+
+# Settings/Configurações
+SETTINGS=CONFIGURAÇÕES
+Settings=Configurações
+settings=configurações
+
+GRAPHICS=GRÁFICOS
+ON=Ligado
+Fullscreen=Tela Cheia
+Window mode=Modo Janela
+Resolution=Resolução
+VSync=VSync
+Chromatic Aberration=Aberação Cromática
+Ambient Occlusion=Oclusão Ambiental
+Max Framerate=Limite de FPS
+Shadow Quality=Qualidade das Sombras
+Low=Baixo
+Brightness=Brilho
+
+
+AUDIO=ÁUDIO
+Microphone (Realtek(R) Audio)=Microfone (Realtek(R) Audio)
+Microphone=Microfone
+Voice Chat Mode=Modo do Chat de Voz
+Voice Detection=Deteção de Voz
+Push To Talk=Apertar para Falar
+Voice Volume=Volume da Voz
+SFX Volume=Volume dos Efeitos Especiais
+Master Volume=Volume Principal
+
+CONTROLS=CONTROLOS
+Push to Talk=Apertar para Falar
+Mouse Sensitivity=Sensibilidade do Rato
+Walk Forward=Andar para a Frente
+Walk Backward=Andar para Trás
+Walk Left=Andar para a Esquerda
+Walk Right=Andar para a Direita
+Sprint=Correr
+Jump=Pular
+Crouch=Agaixar
+Interact=Interagir
+Drop=Largar
+Emote=Dança
+Toggle Selfie Mode=Ativar Modo Selfie
+Invert Mouse=Inverter Mouse
+Crouching Mode=Modo de Agaixamento
+Toggle=Alternar
+Hold=Segurar
+No=Não
+Yes=Sim
+
+INVENTORY=INVENTÁRIO
+Inventory=Inventário
+

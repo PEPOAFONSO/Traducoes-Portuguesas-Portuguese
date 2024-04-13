@@ -1,0 +1,249 @@
+r:"^(\d+)% BATTERY$"=$1% Bateria
+Hold [Q] Throw Item=Atirar Item [Q] Atirando Item
+[Q] Drop Item=[Q] Soltar Item
+[LMB] Learn=[LMB] Aprender
+
+Disc=Đisco
+PICKUP CD=PEGAR NO CD
+PICKUP Disc=PEGAR NO DISCO
+Upload to spooktube=Carregue para o spooktube
+
+Camera=Câmera
+REC=REC
+r:"^(\d+%) FILM LEFT$"=$1 DURAÇÃO RESTANTE
+r:"^(\d+%) % FILM LEFT$"=$1 DURAÇÃO RESTANTE
+PICKUP Camera=PEGAR Câmera
+[R] Selfie Mode=[R] Modo Selfie
+[RMB] Aim=[RMB] Mirar
+[LMB] Record=[LMB] Gravar
+[Scroll] Zoom=[Scroll] Ampliar/Zoom
+[Z + Scroll] Zoom=[Z + Scroll] Ampliar
+
+Broken Camera=Cãmera Partida
+PICKUP Broken Camera=PEGAR Câmera Partida
+
+Old Flashlight=<b>Lanterna Velha</b>
+PICKUP Old Flashlight=PEGAR Lanterna Velha
+[LMB] Toggle Light=[LMB] Ligar Luz
+[LMB] Toggle OldLight=[LMB] Ligar Luz Velha
+Add Old Flashlight To Cart=<b>Adicionar Lanterna Velha ao Carrinho</b>
+Old Flashlight Added To Cart!=<b>Lanterna Adicionada ao Carrinho!</b>
+
+Flare=<b>Sinalizador</b>
+PICKUP Flare=PEGAR Sinalizador
+[LMB] Light Flare=[LMB] Acender Sinalizador
+Add Flare To Cart=<b>Adicionar Sinalizador ao Carrinho</b>
+Flare Added To Cart!=<b>Sinalizador Adicionado ao Carrinho!</b>
+
+Modern Flashlight=<b>Lanterna Moderna</b>
+PICKUP Modern Flashlight= PEGAR Lanterna Moderna
+Add Modern Flashlight To Cart=<b>Adicionar Lanterna Moderna ao Carrinho</b>
+Modern Flashlight Added To Cart!=<b>Lanterna Moderna Adicionada ao Carrinho!</b>
+
+Long Flashlight=<b>Lanterna Longa</b>
+PICKUP Long Flashlight=PEGAR Lanterna Longa
+Add Long Flashlight To Cart=<b>Adicionar Lanterna Longa ao Carrinho</b>
+Long Flashlight Added To Cart!=<b>Lanterna Longa Adicionada ao Carrinho!</b>
+
+Modern Flashlight Pro=<b>Lanterna Moderna Pro</b>
+PICKUP Modern Flashlight Pro=Pegar Lanterna Moderna Pro
+Add Modern Flashlight Pro To Cart=<b>Adicionar Lanterna Moderna Pro ao Carrinho</b>
+Modern Flashlight Pro Added To Cart!=<b>Lanterna Moderna Pro Adicionada ao Carrinho!</b>
+
+Long Flashlight Pro=<b>Lanterna Longa Pro</b>
+PICKUP Long Flashlight Pro=PEGAR Lanterna Longa Pro
+Add Long Flashlight Pro To Cart=<b>Adicionar Lanterna Longa Pro ao Carrinho</b>
+Long Flashlight Pro Added To Cart!=<b>Lanterna Longa Pro Adicionada ao Carrinho!</b>
+
+Defibrilator=<b>Desfibrilador</b>
+PICKUP Defibrilator=PEGAR Desfibrilador
+[LMB] Revive=[LMB] Reviver
+Add Defibrilator To Cart=Adicionar Desfibrilador ao Carrrinho
+Defibrilator Added To Cart!=<b>Desfibrilador Adicionado ao Carrinho!</b>
+
+Hugger=<b>Abraço</b>
+PICKUP Hugger=PEGAR Abraço
+[LMB] Hug=[LMB] Abraçar
+[RMB] Read Instructions=[RMB] Ler Istruções
+Add Hugger To Cart=<b>Adicionar Abraço ao Carrinho
+Hugger Added To Cart!=<b>Abraço Adicionado ao Carrinho!</b>
+
+Goo Ball=<b>Bola de Goo</b>
+PICKUP Goo Ball=PEGAR Bola de Goo
+[LMB] Activate=[LMB] Ativar
+Add Goo Ball To Cart=<b>Adicionar Bola de Goo ao Carrinho</b>
+Goo Ball Added To Cart!=<b>Bola de Goo Adicionada ao Carrinho!</b>
+
+Reporter Mic=<b>Microfone de Reporter</b>
+PICKUP Reporter Mic=Pegar Microfone de Reporter
+Makes things louder=Faz as Coisas Barulhentas
+[RMB] Reach out=[RMB] Alcançar
+Add Reporter Mic To Cart= <b>Adicionar Microfone de Reporter ao Carrinho</b>
+Reporter Mic Added To Cart!=<b>Microfone de Reporter Adicionado ao Carrinho!</b>
+
+
+Boom Mic=<b>Microfone Boom</b>
+PICKUP Boom Mic=PEGAR Microfone Boom
+Make things louder=Faz as Coisas Barulhentas 
+Add Boom Mic To Cart=<b>Adicionar Microfone Boom ao Carrinho</b>
+Boom Mic Added To Cart!=<b>Microfone Boom Adicionado ao Carrinho!</b>
+
+Clapper=<b>Claquete</b>
+PICKUP Clapper=PEGAR Claquete
+[RMB] Hold further away=[RMB] Segurar Mais Longe 
+[LMB] Clamp=[LMB] Claque!
+Add Clapper To Cart=<b>Adicionar Claquete ao Carrinho</b>
+Clapper Added To Cart!=<b>Claquete Adicionado ao Carrinho!</b>
+
+Sound Player=<b>Reprodutor de Sons</b>
+PICKUP Sound Player=PEGAR Reprodutor de Sons
+[Scroll] Select sound=[Scroll] Selecionar Som
+[LMB] Play Sound=[Lmb] Reproduzir Som
+Add Sound Player To Cart=<b>Adicionar Reprodutor de Sons ao Carrinho</b>
+Sound Player Added To Cart!=<b>Reprodutor de Sons Adicionado ao Carrinho!</b>
+
+Shock Stick=<b>Bastão de Choques</b>
+ShockStick=<b>BastãodeChoques</b>
+PICKUP Shock Stick= PEGAR Bastão de Choques
+PICKUP ShockStick= PEGAR BastãodeChoques
+[LMB] Turn on=[LMB] Ligar
+Add Shock Stick To Cart=<b>Adicionar Bastão de Choques ao Carrinho</b>
+Add ShockStick To Cart=<b>Adicionar BastãodeChoques ao Carrinho</b>
+Shock Stick Added To Cart!=<b>Bastão de Choques Adicionado ao Carrinho!</b>
+ShockStick Added To Cart!=<b>BastãodeChoques Adicionado ao Carrinho!</b>
+
+Applause=<b>Aplausos</b>
+PICKUP Applause=Pegar Aplausos
+Emote_Applause=Dança_Aplausos
+How to Applaude=<b>Como Aplaudir</b>
+Add Applause To Cart=<b>Adicionar Aplausos ao Carrinho</b>
+Applause Added To Cart!=<b>Aplausos Adicionados ao Carrinho!</b>
+
+Workout 1=<b>Exercício 1</b>
+PICKUP Workout 1=PEGAR Exercício 1
+Workout book 1= Livro do Exercício 1
+Emote_JumpJack=Dança_Polichinelos
+Add Workout 1 To Cart=<b>Adicionar Exercício 1 ao Carrinho</b>
+Workout 1 Added To Cart!=<b>Exercício 1 Adicionado ao Carrinho</b>
+
+Confused=<b>Confuso</b>
+PICKUP Confused=PEGAR Confuso
+How to look confused=Como parecer confuso
+Emote_FingerScratch=Emote_ArranhãodeDedo
+Add Confused To Cart=<b>Adicionar Confuso ao Carrinho</b>
+Confused Added To Cart!=<b>Confuso Adicionado ao Carrinho!</b>
+
+Dance 103=<b>Dança 103</b>
+PICKUP Dance 103=PEGAR Dança 103
+Emote_Dance3=Dança_Dança3
+How to Dance 103=Como Dançar 103
+Add Dance 103 To Cart=<b>Adicionar Dança 103 ao Carrinho</b>
+Dance 103 Added To Cart!=<b>Dança 103 Adicionada ao Carrinho!</b>
+
+Dance 102=<b>Dança 102</b>
+PICKUP Dance 102=PEGAR Dança 102
+Emote_Dance2=Dança_Dança2
+How to Dance 102=Como Dançar 102
+Add Dance 102 To Cart=<b>Adicionar Dança 102 ao Carrinho</b>
+Dance 102 Added To Cart!=<b>Dança 102 Adicionada ao Carringho!</b>
+
+Dance 101=<b>Dança 101</b>
+PICKUP Dance 101=PEGAR Dança 101
+Emote_Dance1=Dança_Dança1
+How to Dance 101=Como Dançar 101
+Add Dance 101 To Cart=<b>Adicionar Dança 101 ao Carrinho</b>
+Dance 101 Added To Cart!=<b>Dança 101 Adicionada ao Carrinho!</b>
+
+Backflip p1=<b>Mortal p1</b>
+PICKUP Backflip p1=PEGAr Mortal p1
+Emote_HalfBackflip=Dança_MetadeMortal
+How to Backflip (part 1)=Como fazer Mortal (parte 1)
+Add Backflip p1 To Cart=<b>Adicionar Mortal p1 ao Carrinho</b>
+Backflip p1 Added To Cart!=<b>Mortal p1 Adicionado ao Carrinho!</b>
+
+Gymnastics=<b>Ginástica</b>
+PICKUP Gymnastics=PEGAR Ginástica
+Gymnastics for beginners=Ginástica para Iniciantes
+Emote_Handstand=Dança_ParadadeMão
+Add Gymnastics To Cart=<b>Adicionar Ginástica ao Carrinho</b>
+Gymnastics Added To Cart!= <b>Ginástica Adicionada ao Carrinho!</b>
+
+Caring=<b>Importar-se</b>
+PICKUP Caring=<b>PEGAR Importar-se</b>
+Emote_Shrug=Dança_EncolherdeOmbros
+how to care less=como não querer saber
+Add Caring To Cart=<b>Adicionar Importar-se ao Carrinho</b>
+Caring Added To Cart!=<b>Importar-se Adicionado ao Carrinho</b>
+
+
+Ancient gestures 3=<b>Gesto Ancestral 3</b>
+PICKUP Ancient gestures 3=PEGAR Gesto Ancestral 3
+Emote_ThumbsUp=Dança_DedosparaCima
+Add Ancient gestures 3 To Cart=<b>Adicionar Gesto Ancestral 3 ao Carrinho</b>
+Ancient gestures 3 Added To Cart!=<b>Gesto Ancestral 3 Adicionado ao Carrinho!</b>
+
+
+Ancient gestures 2=<b>Gesto Ancestral 2</b>
+PICKUP Ancient gestures 2=PEGAR Gesto Ancestral 2
+Emote_ThumbsUp=Dança_DedosparaCima
+Add Ancient gestures 2 To Cart=<b>Adicionar Gesto Ancestral 2 ao Carrinho</b>
+Ancient gestures 2 Added To Cart!=<b>Gesto Ancestral 2 Adicionado ao Carrinho!</b>
+
+Ancient gestures 1=<b>Gesto Ancestral 1</b>
+PICKUP Ancient gestures 1=PEGAR Gesto Ancestral 1
+Emote_ThumbsUp=Dança_DedosparaCima
+Add Ancient gestures 1 To Cart=<b>Adicionar Gesto Ancestral 1 ao Carrinho</b>
+Ancient gestures 1 Added To Cart!=<b>Gesto Ancestral 1 Adicionado ao Carrinho!</b>
+
+Yoga=<b>Yoga</b>
+PICKUP Yoga=<b>PEGAR Yoga</b>
+How to yoga=Como Yoga
+Emote_Stretch=Dança_Esticar
+Add Yoga To Cart=<b>Adicionar Yoga ao Carrinho</b>
+Yoga Added To Cart!=<b>Yoga Adicionado ao Carrinho!</b>
+
+Workout 2=<b>Exercício 2</b>
+PICKUP Workout 2=PEGAR Exercício 2
+Workout book 2=Livro do Exercício 2
+Emote_PushUp=Emote_Flexões
+Add Workout 2 To Cart=<b>Adicionar Exercício 2 ao Carrinho</b>
+Workout 2 Added To Cart!=<b>Exercício 2 Adicionado ao Carrinho</b>
+
+Thumbnail 2=<b>Miniatura 2</b>
+Emote_Thumbnail2=Dança_Miniatura 2
+PICKUP Thumbnail 2=<b>PEGAR Miniatura 2</b>
+How to make a good thumbnail 2=Como fazer uma miniatura 2 boa
+Add Thumbnail 2 To Cart=<b>Adicionar Miniatura 2 ao Carrinho</b>
+Thumbnail 2 Added To Cart!=<b>Miniatura 2 Adicionada ao Carrinho!</b>
+
+Thumbnail 1=<b>Miniatura 1</b>
+Emote_Thumbnail1=Dança_Miniatura 1
+PICKUP Thumbnail 1=<b>PEGAR Miniatura 1</b>
+How to make a good thumbnail 2=Como fazer uma miniatura 1 boa
+Add Thumbnail 1 To Cart=<b>Adicionar Miniatura 1 ao Carrinho</b>
+Thumbnail 2 Added To Cart!=<b>Miniatura 1 Adicionada ao Carrinho!</b>
+
+Party Popper=<b>Popper de Festa</b>
+PartyPopper=<b>PopperdeFesta</b>
+PICKUP Party Popper=<b>PEGAR Popper de Festa</b>
+Add Party Popper To Cart=<b>Adicionar Popper de Festa</b>
+Party Popper Added To Cart!=<b>Popper de Festa Adicionado ao Carrinho!</b>>
+[LMB] Confetti time=[LMB] Hora do Confete!
+
+Chorby=Chorby
+PICKUP Chorby=PEGAR Chorby
+
+Ribcage=Caixa Torácica
+PICKUP Ribcage=PEGAR Caixa Torácica
+
+Spine=Espinha
+PICKUP Spine=PEGAR Espinha
+
+Skull=Crânio
+PICKUP Skull= PEGAR Crânio
+
+Apple=Maçã
+PICKUP Apple=Pegar Maçã
+
+Bone=Osso
+PICKUP Bone=PEGAR Osso
