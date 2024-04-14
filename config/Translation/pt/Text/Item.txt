@@ -1,6 +1,6 @@
 r:"^(\d+)% BATTERY$"=$1% Bateria
-Hold [Q] Throw Item=Atirar Item [Q] Atirando Item
-[Q] Drop Item=[Q] Soltar Item
+Hold [Q] Throw Item=Segurar [Q] Atirar Item
+[Q] Drop Item=[Q] Largar Item
 [LMB] Learn=[LMB] Aprender
 
 Disc=Đisco

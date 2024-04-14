@@ -2,7 +2,7 @@
     "name": "Traducoes_Portuguesas_Portuguese",
     "version_number": "1.0.0",
     "description": "Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros.",
-    "website_url": "",
+    "website_url": "https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "PhucTruong-XUnity_AutoTranslator-1.0.0"
