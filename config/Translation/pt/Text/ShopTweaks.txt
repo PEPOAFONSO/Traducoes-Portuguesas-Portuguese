@@ -1,0 +1,6 @@
+RIGHT=<b>DIREITA</b>
+Right=<b>Direita</b>
+right=<b>direita</b>
+LEFT=<b>ESQUERDA</b>
+Left=<b>Esquerda</b>
+left=<b>esquerda</b>

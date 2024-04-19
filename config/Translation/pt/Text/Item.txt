@@ -230,6 +230,9 @@ Add Party Popper To Cart=<b>Adicionar Popper de Festa</b>
 Party Popper Added To Cart!=<b>Popper de Festa Adicionado ao Carrinho!</b>>
 [LMB] Confetti time=[LMB] Hora do Confete!
 
+[LMB] PLAYER=[LMB] TOCAR
+[RMB] SWITCH MUSIC=[RMB] MUDAR DE MÚSICA
+
 Chorby=Chorby
 PICKUP Chorby=PEGAR Chorby
 

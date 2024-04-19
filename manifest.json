@@ -1,7 +1,7 @@
 {
     "name": "Traducoes_Portuguesas_Portuguese",
-    "version_number": "1.0.1",
-    "description": "Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros.",
+    "version_number": "1.0.2",
+    "description": "Traduções portuguesas manuais! Este mod não é perfeito e pode conter erros.",
     "website_url": "https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

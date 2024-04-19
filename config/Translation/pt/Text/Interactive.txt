@@ -6,7 +6,7 @@ ORDER=COMPRAR
 Order=Comprar
 Clear=Limpar
 CLEAR=LIMPAR
-Switch To Light Category=<b>Mudar para a Categoría das Luzes</b>
+Switch To Lights Category=<b>Mudar para a Categoría das Luzes</b>
 Lights=<b>Luzes</b>
 LIGHTS=<b>LUZES</b>
 Switch To Medical Category=<b>Mudar para Categoría Médico</b>
@@ -24,10 +24,6 @@ EMOTE2=<b>DANÇA2</b>
 Switch To Misc Category=<b>Mudar para a Categoria de Outros</b>
 Misc=<b>Outros</b>
 MISC=<b>Outros</b>
-LEFT=<b>ESQUERDA</b>
-Left=<b>Esquerda</b>
-RIGHT=<b>DIREITA</b>
-Right=<bDireita></b>
 
 #DIVING BELL
 ACTIVE=ATIVADO

@@ -1,0 +1,6 @@
+Boombox=Caixa de Som
+PICKUP Boombox=PEGAR Caixa de Som
+Add Boombox To Cart=Adicionar Caixa de Som ao Carrinho
+Boombox Added To Cart=Caixa de Som Adicionada ao Carrinho
+[LMB] PLAYER=[LMB] TOCAR
+[RMB] SWITCH MUSIC=[RMB] MUDAR DE MÚSICA

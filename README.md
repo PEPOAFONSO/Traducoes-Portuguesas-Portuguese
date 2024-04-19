@@ -3,7 +3,22 @@
 
 ## Description
 
-Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros vários erros. 
+Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros vários erros.
+
+<details>
+<summary>SHOW</summary>
+<ul><li>
+
+# Mods Traduzidos:
+* #### ConfigurableWarning 
+* #### MoreColors
+* #### MoreSettings
+* #### SillyItems
+* #### SoundPlayer
+* #### Boombox
+* #### ShopTweaks
+</li></ul>
+</details>
 
 ## Screenshots
 
@@ -21,4 +36,4 @@ If you have any feedback, please reach out using the official page of Traduçõe
 
 
 ## 🚀 Github
-The [official page](https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese) of the modpack.
+The [official page](https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese) of the mod.
