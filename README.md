@@ -1,15 +1,15 @@
 
 # Traduções_Portuguesas_Portuguese
 
-## Description
+## Descrição
 
 Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros vários erros.
 
+## Mods Traduzidos
 <details>
-<summary>SHOW</summary>
+<summary>MOSTRAR</summary>
 <ul><li>
 
-# Mods Traduzidos:
 * #### ConfigurableWarning 
 * #### MoreColors
 * #### MoreSettings
@@ -20,7 +20,7 @@ Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros vários 
 </li></ul>
 </details>
 
-## Screenshots
+## Imagens
 
 ![Menu](https://cdn.discordapp.com/attachments/509833386962059267/1228669092982947921/image.png?ex=662ce243&is=661a6d43&hm=1415c397a72bcc41e4957026e0887607f186de8daff5a9eecbd7eecb5722b2f0&)
 
@@ -30,10 +30,10 @@ Traduz o jogo para portugues!Este mod não é perfeito e pode ter erros vários 
 
 ![SpookTube](https://cdn.discordapp.com/attachments/509833386962059267/1228732381951955065/image.png?ex=662d1d34&is=661aa834&hm=ed57abf7c716b99716453d0be0878933b8b4abc5bd9f4123a7fc74d1f854bd40&)
 
-## Feedback
+## Ajuda
 
-If you have any feedback, please reach out using the official page of Traduções_Portuguesas_Portuguese on the [Content Warning Modding](https://discord.gg/yeGDSm4gFq) discord server.
+Se tiveres algum problema, por favor contacte utilizando a página do Traduções_Portuguesas_Portuguese no servidor de discord do [Content Warning Modding](https://discord.gg/yeGDSm4gFq).
 
 
 ## 🚀 Github
-The [official page](https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese) of the mod.
+A [página oficial](https://github.com/PEPOAFONSO/Traducoes-Portuguesas-Portuguese) odo mod.

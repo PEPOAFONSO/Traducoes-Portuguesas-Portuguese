@@ -1,3 +1,4 @@
 Clown Horn=Corneta de Palhaço
 Doot Horn=Buzina
 Rubber Ducky=Pato de Borracha
+Woops Cushion=Almofada Opss!

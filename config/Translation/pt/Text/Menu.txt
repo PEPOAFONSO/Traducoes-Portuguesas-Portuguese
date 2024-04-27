@@ -78,6 +78,13 @@ Hold=Segurar
 No=Não
 Yes=Sim
 
+TRANSLATED CONTENT=TRADUÇÕES
+TRANSLATIONS=TRADUÇÕES
+Language=Linguagem
+LANGUAGE=LINGUAGEM
+PORTUGUESE=PORTUGUÊS
+Portuguese=Português
+
 INVENTORY=INVENTÁRIO
 Inventory=Inventário
 

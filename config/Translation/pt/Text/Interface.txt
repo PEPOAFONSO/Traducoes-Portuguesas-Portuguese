@@ -37,3 +37,7 @@ You can not invite friends after the game has started.=Você não pode convidar 
 Are you sure you want to start?=Tens aceteza que queres começar?
 Start Game=Começar Jogo
 Cancel=Cancelar
+
+ARE YOU SURE TO CHANGE LANGUAGE OF THE GAME VIA TRANSLATED CONTENT?=TENS A CERTEZA QUE QUERES MUDAR A LINGUA DO JOGO PELO TRANSLATED CONTENT?
+After hitting OK the game will close and you'll need to restart it via mod manager again.=Depois de clicares OK o jogo irá fechar e irás precisar de o abrir de novo através do mod manager "Thunderstore".
+Note that you must install language of the game in Steam to English, or mod wouldn't work without it!= Nota: Precisas de instalar o jogo na Steam em Inglês para o mod funcionar!
