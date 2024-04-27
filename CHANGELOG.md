@@ -10,3 +10,7 @@
 * ### + SillyItens Combability
 * ### + Boombox Combability
 * ### + ShopTweaks Combability
+ ## Version 1.0.3
+* ### + SillyItens Update
+* ### + Interface Update
+* ### + Menu Update
